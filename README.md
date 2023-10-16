@@ -4,8 +4,7 @@ PREDIKSI HARGA BUKA SAHAM TESLA (TSLA) DENGAN MODEL RNN DAN LSTM SEBAGAI PROJECT
 
 **Kelompok 6 RA**
 
-*Justin Tigor Hasonangan Situmeang
-
+*Justin Tigor Hasonangan S
 *Kevin Anugrah                      
 *Kathrine Brigita Soraya	          
 *Kholisaturrohmah                   
