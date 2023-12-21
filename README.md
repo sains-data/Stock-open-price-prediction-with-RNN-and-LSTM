@@ -20,4 +20,6 @@ https://kelompok6ra-stock-open-price-prediction.streamlit.app/
 
 Sekarang, pengguna dapat dengan mudah menerapkan model prediksi harga saham dengan memasukkan data yang ingin diprediksi, membuka peluang untuk penggunaan yang lebih luas dan aplikatif.
 
-Thank You
+clone github :
+
+git clone https://github.com/Kathrinesoraya/Tesla-stock-open-price-prediction-with-RNN-and-LSTM
